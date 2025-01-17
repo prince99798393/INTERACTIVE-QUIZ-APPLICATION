@@ -20,3 +20,4 @@ The application dynamically loads questions, ensuring a fresh experience every t
 This project was developed with clean, responsive design principles. The interface is minimal yet engaging, suitable for users across all age groups. The JavaScript code ensures that the questions load dynamically, avoiding repetition and enhancing the user experience. The platform is also easily extendable, allowing more questions to be added in the future. Overall, this project showcases how interactive design and real-time feedback mechanisms can create a productive learning tool.
 
 *OUTPUT*:
+![QUIZ](https://github.com/user-attachments/assets/bdf167ca-d744-4d34-a07b-2516b927cd5d)
